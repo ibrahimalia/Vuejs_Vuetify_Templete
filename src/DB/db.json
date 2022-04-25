@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "sdsd",
+      "email": "sd@gmail.com",
+      "password": "we",
+      "id": 1
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "sdsd",
+      "phone": "sd",
+      "address": "sdds",
+      "id": 1
+    },
+    {
+      "name": "fdff",
+      "phone": "sddffd",
+      "address": "sddsfdf",
+      "id": 2
+    },
+    {
+      "name": "fddfddf",
+      "phone": "232323",
+      "address": "ssssssssss",
+      "id": 3
+    },
+    {
+      "name": "fddfddf",
+      "phone": "232323",
+      "address": "ssssssssss",
+      "id": 4
+    },
+    {
+      "name": "sdsd",
+      "phone": "s232",
+      "address": "sdsdsd",
+      "id": 5
+    },
+    {
+      "name": "sdsdd",
+      "phone": "2332",
+      "address": "sdsd",
+      "id": 6
+    },
+    {
+      "name": "ererer",
+      "phone": "232323",
+      "address": "dfdfdfd",
+      "id": 7
+    },
+    {
+      "name": "p7house",
+      "phone": "465656",
+      "address": "hama",
+      "id": 8
+    }
+  ]
+}
